@@ -1,4 +1,4 @@
--- Problem 10: Special Pythagorean triplet
+-- Problem 10: Summation of primes
 --
 -- https://projecteuler.net/problem=10
 --
